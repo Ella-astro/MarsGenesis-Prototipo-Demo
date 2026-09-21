@@ -13,11 +13,6 @@ from simulation import (
     apply_response
 )
 
-import os
-
-st.write("FINAL APP TEST")
-st.write("Running file:", os.path.abspath(__file__))
-
 st.markdown(
     """
     <style>
